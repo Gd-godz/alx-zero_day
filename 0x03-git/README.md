@@ -1,1 +1,1 @@
-My third git project directory created
+Updating README file from terminal
